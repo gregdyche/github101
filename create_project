@@ -4,3 +4,24 @@ How to create a new project?
   1a. My top-level is 'projects'.
   1b. For this example, create 'new_project' in 'projects' folder
 2. Create a file, like this one, that contains info for your project.
+  # These notes are modified or copied directly from:
+  # https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+3. Create a git repository to track this project.
+  A lot of options other than git, but I'm going to show git to keep it simple.
+  3a. $ git init -b main
+  3b. $ git add .
+    # Adds the files in the local repository and stages them for commit.
+    # To unstage a file, use 'git reset HEAD YOUR-FILE'.
+  3c. $ git commit -m "First commit"
+      # Commits the tracked changes and prepares them to be pushed to a
+      # remote repository. To remove this commit and modify the file,
+      # use 'git reset --soft HEAD~1' and commit and add the file again.
+4. Create the web repository in github to receive the local project files.
+  4a. At the top of your repository on GitHub.com's Quick Setup page, click  to copy the remote repository URL.
+
+5. push local files to web repository.
+  5b. $ git remote add origin git@github.com:gregdyche/github101.git
+    # URL is built from 'git@github.com' and your username separate by a :
+    # followed by a / and then your repository name. 
+  5c. $ git branch -M main
+  5d. $ git push -u origin main
