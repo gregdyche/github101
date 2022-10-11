@@ -1,0 +1,6 @@
+How to create a new project?
+
+1. Create a folder inside your top-level folder to hold the project documents.
+  1a. My top-level is 'projects'.
+  1b. For this example, create 'new_project' in 'projects' folder
+2. Create a file, like this one, that contains info for your project.
