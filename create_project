@@ -1,13 +1,18 @@
 How to create a new project?
 
+My preferred path.
+Start on Laptop.
 1. Create a folder inside your top-level folder to hold the project documents.
   1a. My top-level is 'projects'.
   1b. For this example, create 'new_project' in 'projects' folder
+  1c. mkdir new_projects
+  
 2. Create a file, like this one, that contains info for your project.
-  # These notes are modified or copied directly from:
+  # These steps are modified or copied directly from:
   # https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+  
 3. Create a git repository to track this project.
-  A lot of options other than git, but I'm going to show git to keep it simple.
+  # A lot of options other than git, but I'm going to show git to keep it simple.
   3a. $ git init -b main
   3b. $ git add .
     # Adds the files in the local repository and stages them for commit.
@@ -16,8 +21,10 @@ How to create a new project?
       # Commits the tracked changes and prepares them to be pushed to a
       # remote repository. To remove this commit and modify the file,
       # use 'git reset --soft HEAD~1' and commit and add the file again.
+      
 4. Create the web repository in github to receive the local project files.
   4a. At the top of your repository on GitHub.com's Quick Setup page, click  to copy the remote repository URL.
+  4b. When you create the repository, github will show you the commands needed to push from the laptop to the cloud. Just copy and paste - example shown in step 5.
 
 5. push local files to web repository.
   5b. $ git remote add origin git@github.com:gregdyche/github101.git
