@@ -23,13 +23,13 @@ Work alone or work togehter? Github was created for working togther. Where to be
 3. Working Together.  
   https://docs.github.com/en/get-started/quickstart/contributing-to-projects   
   a. Forking a repository  
-    i. done in the cloud  
+      i. done in the cloud  
   b. Cloning a fork  
-    i. done on the laptop  
-    ii. When you clone, it will create a diretory for the   files, so run the clone command from the parent   directory.  
+      i. done on the laptop  
+      ii. When you clone, it will create a diretory for the   files, so run the clone command from the parent   directory.  
         If you aren't careful, you'll end up with two   directories of the same name: /home/project1/project1  
   c. Making and pushing changes  
   d. Making a pull request  
-    i. I thought 'closing' meant saving. I was wrong. Do not close your pull request.   
+      i. I thought 'closing' meant saving. I was wrong. Do not close your pull request.   
   e. Managing feedback  
   f. inding projects  
