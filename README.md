@@ -18,7 +18,7 @@ Work alone or work togehter? Github was created for working togther. Where to be
   Following GitHub flow: https://docs.github.com/en/get-started/quickstart/github-flow   
   a. Create a branch  
   b. Make changes  
-  c. Create a pull request  
+  c. Create a pull request  (is this needed? )
   d. Address review comments  
   e. Merge your pull request  
   f. Delete your branch  
