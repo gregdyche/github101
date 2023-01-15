@@ -4,7 +4,10 @@ End sentences with two spaces to create a newline break.
 Work alone or work togehter? Github was created for working togther. Where to begin?  
 
 1. Learn the basics, so you can navigate and work with projects.  
-  a. setup  
+  a. setup
+    Use VS Code as the interface from your desktop to Git and Github.
+    Extension are many. 
+    https://code.visualstudio.com/docs/sourcecontrol/overview this is a good place to start.
   b. repositories  
   c. commits  
   d. local and remote  
