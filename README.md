@@ -1,5 +1,6 @@
 # github101
-simple notes to start using github  
+Simple notes to start using github.S 
+  refresh source control (side bar) before editing.  
 End sentences with two spaces to create a newline break.  
 Work alone or work togehter? Github was created for working togther. Where to begin?  
 
