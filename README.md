@@ -25,25 +25,25 @@ Work alone or work togehter? Github was created for working togther. Where to be
     Fork is from remote to remote.  
     Clone is from remote to local.
 
-2. Working Alone.  
+## 2. Working Alone.  
   Following GitHub flow: https://docs.github.com/en/get-started/quickstart/github-flow   
-  a. Create a branch  
-  b. Make changes  
-  c. Create a pull request  (is this needed? )
-  d. Address review comments  
-  e. Merge your pull request  
-  f. Delete your branch  
+  + a. Create a branch  
+  + b. Make changes  
+  + c. Create a pull request  (is this needed? )
+  + d. Address review comments  
+  + e. Merge your pull request  
+  + f. Delete your branch  
   
-3. Working Together.  
+## 3. Working Together.  
   https://docs.github.com/en/get-started/quickstart/contributing-to-projects   
-  a. Forking a repository  
+  + a. Forking a repository  
       i. done in the cloud  
-  b. Cloning a fork  
+  + b. Cloning a fork  
       i. done on the laptop  
       ii. When you clone, it will create a diretory for the   files, so run the clone command from the parent   directory.  
         If you aren't careful, you'll end up with two   directories of the same name: /home/project1/project1  
-  c. Making and pushing changes  
-  d. Making a pull request  
+  + c. Making and pushing changes  
+  + d. Making a pull request  
       i. I thought 'closing' meant saving. I was wrong. Do not close your pull request.   
-  e. Managing feedback  
-  f. inding projects  
+  + e. Managing feedback  
+  + f. inding projects  
