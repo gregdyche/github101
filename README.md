@@ -6,6 +6,7 @@ Simple notes to start using github.
 + sync first
 
 ### Starting to work in GitHub
++ just getting started
 
 
 ### Starting to work locally (git)
